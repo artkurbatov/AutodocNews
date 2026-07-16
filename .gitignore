@@ -1,0 +1,26 @@
+## Вспомогательные системные файлы
+.DS_Store
+
+# Xcode
+## Пользовательские настройки
+xcuserdata/
+
+## Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+DerivedData/
+
+## App packaging
+*.dSYM.zip
+*.dSYM
+*.ipa
+
+/.build
+
+# XCode Patch
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+!*.xcworkspace/contents.xcworkspacedata
+**/xcshareddata/WorkspaceSettings.xcsettings
